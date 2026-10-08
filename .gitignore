@@ -1,0 +1,7 @@
+node_modules/
+.env
+.env.*
+uploads/
+backend/data/iem_photography.sqlite
+backend/data/iem_photography.sqlite-shm
+backend/data/iem_photography.sqlite-wal
